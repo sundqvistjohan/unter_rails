@@ -1,0 +1,92 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/johansundqvist/Projects/unter_rails/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/jobs/application_job.rb": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1579873162
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/johansundqvist/Projects/unter_rails/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/jobs/application_job.rb": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/johansundqvist/Projects/unter_rails/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1579873165
+  }
+}
